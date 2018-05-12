@@ -1,0 +1,26 @@
+_repo: A-Man-of-the-World_32421
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32421-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Call, Annie Payson
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '1451'
+    url: http://www.gutenberg.org/2009/agents/1451
+description: ''
+gutenberg_issued: '2010-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+title: A Man of the World
+url: http://www.gutenberg.org/ebooks/32421
